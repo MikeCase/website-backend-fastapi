@@ -20,7 +20,7 @@ orjson==3.6.8
 passlib==1.7.4
 pycparser==2.21
 pydantic==1.9.0
-PyJWT==2.3.0
+PyJWT==2.4.0
 pypika-tortoise==0.1.4
 python-dotenv==0.20.0
 python-multipart==0.0.18
