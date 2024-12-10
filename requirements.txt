@@ -11,7 +11,7 @@ email-validator==1.2.1
 fastapi==0.76.0
 h11==0.13.0
 httptools==0.4.0
-idna==3.3
+idna==3.7
 iso8601==1.0.2
 itsdangerous==2.1.2
 Jinja2==3.1.2
